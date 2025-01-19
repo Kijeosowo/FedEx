@@ -47,19 +47,6 @@ function Footer() {
           </footer>
           <hr className="hr" />
 
-          {/* <div className="icons">
-            <p>Follow FedEx:</p>
-              <div className="icons-img">
-                <img className="email" src={email} />
-                <img src={facbook} />
-                <img src={x} />
-                <img src={instagram} />
-                <img src={linkedin} />
-                <img src={youtube} />
-                <img src={Pinterest} />
-              </div>
-          </div> */}
-
           <div className="Footer-bottom">
             <div>
               <p>© FedEx 1995-2024</p>

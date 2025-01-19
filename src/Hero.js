@@ -8,7 +8,6 @@ import Section3 from "./image/3.jpg";
 import card1 from "./image/card1.jpg";
 import card2 from "./image/card2.jpg";
 import card3 from "./image/card3.jpg";
-// import Sec5 from "./image/Sec5.jpeg";
 import Sec6 from "./image/Section6.jpg";
 import Sec7 from "./image/Section7.jpg";
 import Sec7a from "./image/speaker.jpg";
@@ -161,7 +160,6 @@ function Hero() {
 
         {/* ------------------------ Section 6 ------------------------ */}
         <div id="Section3">
-          {/* <h1>Take steps toward more sustainable shipping</h1> */}
         </div>
         <div className="Section3">
           <div className="Section-body">
@@ -179,28 +177,6 @@ function Hero() {
             <img src={Sec6} alt=''/>
           </div>
         </div>
-
-        {/* ------------------------ Section 5 ---------------------------- */}
-        {/* <div className="Section5">
-          <div class="card-container">
-            <div class="card5">
-              <img src={Sec5} />
-              <div class="card-info">
-                <h3 class="card-title">Watch truly cinematic deliveries</h3>
-                <br></br>
-                <p class="card-description">
-                  An unlikely ring bearer. A search for burning love. A modern
-                  skateboarding miracle. They’re not movies, they’re our true
-                  delivery stories. Did a team member go the extra mile for you?
-                  Tell us on social with #FedExceptional.
-                </p>
-                
-                <br></br>
-                <a href="">Check out the stories &rarr;</a>
-              </div>
-            </div>
-          </div>
-        </div> */}
 
         {/* ------------------------ Section 7 ----------------------------- */}
         <div className="Section7">
